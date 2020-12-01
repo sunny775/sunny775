@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 👨‍💻 I'm a fullstack Javascript Developer.
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning: advanced methods of algorithmic design, Py, ML & AI
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas
