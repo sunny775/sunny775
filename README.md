@@ -8,7 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=1000&lines=Full-Stack+Engineer+%7C+AI+Innovator;React+%2B+Node.js+%2B+TypeScript+Expert;Building+AI-Powered+Applications;Open+Source+Contributor;Crafting+Scalable%2C+High-Performance+Solutions;6%2B+Years+Building+for+Global+Clients" alt="Typing SVG" />
 </p>
 
-📍 **Lagos, Nigeria (UTC+1)** | 📧 **scletus40@gmail.com** | 📱 **+234 7069746873**
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Lagos,_Nigeria_(UTC+1)-blue?style=for-the-badge&labelColor=000000" alt="Location"/>
+  <img src="https://img.shields.io/badge/💼_Status-Available_for_Projects-brightgreen?style=for-the-badge&labelColor=000000" alt="Status"/>
+  <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-orange?style=for-the-badge&labelColor=000000" alt="Focus"/>
+</div>
 
 <table>
   <tr>
