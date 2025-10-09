@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Sunday Nkwuda
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=eeeeee&text=👋%20Hi,%20I'm%20Sunday%20Nkwuda&fontSize=50&descAlign=66&descAlignY=66"/>
 
 ### 🚀 Experienced Full-Stack Engineer | JavaScript • TypeScript • React • Node.js
 
