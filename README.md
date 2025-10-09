@@ -211,7 +211,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
