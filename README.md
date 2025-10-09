@@ -13,11 +13,11 @@ NOTE: This only indicates my activities on Github
 
 > Languages & tools I work with.
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="sonnie-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
-<p  style="text-align: center; width: 100%;">
+<p  align="center">
 <table>
   <tr>
     <td align="center" width="100">
