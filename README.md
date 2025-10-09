@@ -1,9 +1,9 @@
 # Sunday Nkwuda's Github Activity Summary
 
 <div  align="center">
-  <img src="https://raw.githubusercontent.com/sunny775/sunny775/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/sunny775/sunny775/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/sunny775/sunny775/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></div>
+  <img src="https://raw.githubusercontent.com/sunny775/sunny775/main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/sunny775/sunny775/main/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/sunny775/sunny775/main/profile-summary-card-output/default/2-most-commit-language.svg"></br></div>
 
 NOTE: This only indicates my activities on Github
 
