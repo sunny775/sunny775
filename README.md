@@ -13,10 +13,6 @@ NOTE: This only indicates my activities on Github
 
 > Languages & tools I work with.
 
-<h2 align="left" id="sonnie-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
 <p  align="center">
 <table>
   <tr>
