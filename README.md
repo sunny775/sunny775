@@ -17,7 +17,7 @@ NOTE: This only indicates my activities on Github
 
 > Tools, languages, and other things that I like to work with.
 
-<p  align="center">
+<p  style="text-align: center; width: 100%;">
 <table>
   <tr>
     <td align="center" width="100">
