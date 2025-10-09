@@ -55,7 +55,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny775" alt="GitHub Streak" width="48%"/>
 
 ### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny775&theme=white" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny775&theme=github-light" alt="Contribution Graph"/>
 
 
 </div>
