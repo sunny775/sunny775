@@ -31,7 +31,7 @@
       <br><strong>GitHub</strong>
     </td>
     <td align="center" width="25%" style="padding: 15px;">
-      <a href="tel:+2347069746873">
+      <a href="https://api.whatsapp.com/send?phone=2347069746873">
         <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
       </a>
       <br><strong>WhatsApp</strong>
