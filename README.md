@@ -5,7 +5,7 @@
 ### 🚀 Experienced Full-Stack Engineer | JavaScript • TypeScript • React • Node.js
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;React+%26+Node.js+Expert;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=3000&color=0077B5&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;React+%26+Node.js+Expert;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 📍 **Lagos, Nigeria (UTC+1)** | 📧 **scletus40@gmail.com** | 📱 **+234 7069746873**
