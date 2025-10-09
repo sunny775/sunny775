@@ -9,13 +9,13 @@ NOTE: This only indicates my activities on Github
 
 ---
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="sunny775">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Languages & tools I work with.
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -215,4 +215,3 @@ NOTE: This only indicates my activities on Github
     </td>
   </tr>
 </table>
-
