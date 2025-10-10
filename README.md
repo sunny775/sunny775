@@ -22,7 +22,7 @@
       <br><strong>Email</strong>
     </td>
     <td align="center" width="25%" style="padding: 15px;">
-      <a href="https://linkedin.com/in/sunday">
+      <a href="https://www.linkedin.com/in/sunday-nkwuda">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <br><strong>LinkedIn</strong>
