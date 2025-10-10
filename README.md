@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/💼_Status-Available_for_Projects-brightgreen?style=for-the-badge&labelColor=000000" alt="Status"/>
   <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-orange?style=for-the-badge&labelColor=000000" alt="Focus"/>
 </div>
+<br />
 
 <table>
   <tr>
@@ -41,6 +42,7 @@
   </tr>
 </table>
 </div>
+<br />
 
 
 <p  align="center">
