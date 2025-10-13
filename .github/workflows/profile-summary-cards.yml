@@ -13,12 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # 👇 Configure Git author info to match your GitHub account
-      - name: Set up Git identity
-        run: |
-          git config --global user.name "Sunday Nkwuda"
-          git config --global user.email "sonnietech@disroot.org"
-
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
